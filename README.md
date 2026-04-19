@@ -15,28 +15,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Fernando Augusto
+<div align="center">
 
-<p align="left">
+# Bem vindo!<p>Eu meu Fernando Augusto! 👋
+
+<p>
     <a href="https://github.com/FernandoAAB">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/FernandoAAB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Github" title="GitHub" />
+        <img src="https://custom-icon-badges.demolab.com/github/followers/FernandoAAB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub" />
+    </a>
 </p>
+
+</div>
 
 ---
 
-###  Linguagens e Tecnologias
+### 👨‍💻 Sobre mim
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="30" height="30" />&nbsp;
-    <img src="./Doc/Markdown.svg" alt="Markdown" title="Markdown" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30" />&nbsp;
-    <img src="./Doc/Flask.svg" alt="Flask" title="Flask" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="30" height="30" />&nbsp;
+- 🎓 Estudante / Desenvolvedor apaixonado por tecnologia
+- 🌱 Sempre aprendendo e explorando novas ferramentas
+- 💡 Gosto de resolver problemas
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandoAAB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAAB&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🔥 Streak
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=FernandoAAB&theme=tokyonight&hide_border=false&locale=pt_BR" alt="GitHub Streak" />
 </div>
 <br/>
 
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="40" height="40" />&nbsp;
+</div>
+---
