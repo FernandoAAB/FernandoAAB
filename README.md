@@ -24,7 +24,6 @@ Here are some ideas to get you started:
         <img src="https://custom-icon-badges.demolab.com/github/followers/FernandoAAB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub" />
     </a>
 </p>
-
 </div>
 
 ---
