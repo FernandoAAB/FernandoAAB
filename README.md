@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Bem vindo!<p>Eu meu Fernando Augusto! 👋
+# Bem vindo!<p>Eu meu Fernando Augusto!
 
 <p>
     <a href="https://github.com/FernandoAAB">
