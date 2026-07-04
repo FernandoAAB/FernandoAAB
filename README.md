@@ -22,8 +22,6 @@
 
 <div align="center">
 <br/><br/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAAB&title_color=cf222e&bg_color=0D1117&text_color=ffffff&locale=pt-br&hide_border=false&border_color=cf222e&layout=compact&langs_count=8" />
-<br/><br/>
 <img src="https://streak-stats.demolab.com?user=FernandoAAB&theme=blux&hide_border=false&border=cf222e&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&fire=EBD014&background=0D1117&stroke=cf222e&ring=cf222e" />
 
 </div>
