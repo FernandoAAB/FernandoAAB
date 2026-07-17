@@ -35,6 +35,9 @@
 <a href="https://github.com/FernandoAAB/ATT">
   <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FernandoAAB&repo=ATT&theme=react&bg_color=0d1117&title_color=cf222e&hide_border=false&border_color=cf222e&icon_color=cf222e&show_icons=true" />
 </a>
+<a href="https://github.com/FernandoAAB/Lista-de-tarefas](https://github.com/FernandoAAB/Lista-de-tarefas">
+  <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FernandoAAB&repo=Lista-de-tarefas&theme=react&bg_color=0d1117&title_color=cf222e&hide_border=false&border_color=cf222e&icon_color=cf222e&show_icons=true" />
+</a>
 
 </div>
 
