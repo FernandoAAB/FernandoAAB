@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  $ whoami                                                  ║
-║  > Fernando Augusto                                        ║
-║  $ cat /dev/habilidades | grep --color=always "habilidades"║
-║  > Código. Design. Soluções que importam.                  ║
-╚════════════════════════════════════════════════════════════╝
-```
+<div align="centro">
+  <a href="https://github.com/FernandoAAB">
+    <img src="https://raw.githubusercontent.com/FernandoAAB/FernandoAAB/main/profile-grid.svg" alt="Grade de perfil" width="100%" />
+  </um>
+</dividir>
 
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=13&pause=3000&color=cf222e&center=true&width=600&lines=inicializando+perfil...+OK;carregando+habilidades...+OK;conectando+ao+reposit%C3%B3rio...+OK;bem-vindo+ao+perfil+de+Fernando+Augusto+%E2%96%88" alt="Terminal boot" />
 <br/>
@@ -41,33 +38,8 @@
 
 </div>
 
-<div align="left">
-  
-### 🛠️ Linguagens e Tecnologias
-
-| Camada | Tecnologias |
-|--------|-------------|
-| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="22"/> HTML5 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="22"/> CSS3 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22"/> JavaScript |
-| **Back-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22"/> Python |
-| **Banco de dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="22"/> MySQL |
-| **Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22"/> Git &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" width="22"/> Inkscape &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="22"/> Batch (.bat/.cmd) |
-</div>
-
 ---
 
-
 <div align="center">
-<br/><br/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  "Qualquer um pode escrever código que um computador
-   entende. Bons programadores escrevem código que
-   humanos entendem." — Martin Fowler
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=12&pause=2000&color=cf222e&center=true&width=400&lines=%5Bprocesso+conclu%C3%ADdo%5D+c%C3%B3digo+de+sa%C3%ADda+0+%E2%9C%94" />
-
 </div>
